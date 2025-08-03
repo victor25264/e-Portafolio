@@ -1,4 +1,4 @@
-# Dendron Workspace Template for GitHub Pages publishing
+# Dendron Workspace Template for GitHub Pages publishing v2
 
 - [View the Demo Website](https://dendronhq.github.io/template.publish.github/)
 
