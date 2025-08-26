@@ -165,5 +165,5 @@ if __name__ == "__main__":
 
 #### Reading 
 
-+ [Modern Python Cookbook - Third Edition](https://learning.oreilly.com/library/view/modern-python-cookbook/9781835466384)
-+ [Python Programming by Pearson](https://learning.oreilly.com/library/view/python-programming-by/9789357053303/)
++ Lott, S. F. (2024) Modern Python Cookbook : 130+ Updated Recipes for Modern Python 3. 12 with New Techniques and Tools. Third edition. Birmingham, England: Packt Publishing.
++ Sridhar, S. et al. (2023) Python programming. Uttar Pradesh, India: Pearson India Education Services Pvt. Ltd.
