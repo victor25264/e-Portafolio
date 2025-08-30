@@ -111,5 +111,5 @@ if __name__ == "__main__":
 
 #### Reading 
 
-+ [Modern Python Cookbook - Third Edition](https://learning.oreilly.com/library/view/modern-python-cookbook/9781835466384)
-+ [Python Programming by Pearson](https://learning.oreilly.com/library/view/python-programming-by/9789357053303/)
++ Sarcar, V. (2022) Java design patterns : a hands-on experience with real-world examples. Third edition. [Online]. Berkeley, California: Apress.
++ Reddy, M. (2024) API Design for C++. 2nd ed. San Diego: Elsevier Science & Technology.
