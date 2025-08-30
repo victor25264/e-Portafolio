@@ -3,8 +3,8 @@ title: "Design Patterns I - Creational Patterns"
 date: 2025-08-17
 tags: ["AOODP","OOP","Desing Patterns", "Creational Patterns"]
 author: ["Victor"]
-description: "" 
-summary: "" 
+description: "Creational patterns are effective design patterns for creating dynamic objects in various scenarios." 
+summary: "Creational patterns are effective design patterns for creating dynamic objects in various scenarios." 
 cover:
     # image: "paper1.png"
     alt: "Design Patterns I - Creational Patterns"

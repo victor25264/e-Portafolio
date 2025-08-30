@@ -59,7 +59,7 @@ params:
 
           buttons:
             - name: Advanced Object-Oriented Design and Programming
-              url: AOODP/
+              url: aoodp/
             # - name: Data
             #   url: data/
             # - name: Books
