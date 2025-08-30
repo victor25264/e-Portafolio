@@ -3,8 +3,8 @@ title: "Design Patterns II - Structural Patterns"
 date: 2025-08-24
 tags: ["AOODP","OOP","Desing Patterns", "Structural Patterns"]
 author: ["Victor"]
-description: "" 
-summary: "" 
+description: "Structural patterns help manage relationships between objects, from reducing memory usage to developing functionality without changing existing classes." 
+summary: "Structural patterns help manage relationships between objects, from reducing memory usage to developing functionality without changing existing classes." 
 cover:
     # image: "paper1.png"
     alt: "Design Patterns II - Structural Patterns"
