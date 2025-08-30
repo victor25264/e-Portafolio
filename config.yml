@@ -29,10 +29,10 @@ menu:
         #   weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "Victor's e-portafolio."
     author: Victor
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "August 2025"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -44,7 +44,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["AOODP","courses","papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
