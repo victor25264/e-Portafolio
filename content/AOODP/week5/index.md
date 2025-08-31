@@ -107,7 +107,7 @@ if __name__ == "__main__":
 ```
 
 #### Reflexion
-+ 
++ As the summary stated, different patterns with various scenarios were presented this week. Each of these patterns has a specific use; for instance, the observer pattern can be beneficial in IoT, while the template method can be used in programs that have common steps but leave some details to be handled by specific classes. These patterns have a complexity that needs to be understood before adding them to a project, as the more a class grows, the more difficult it will be to debug.
 
 ---
 
