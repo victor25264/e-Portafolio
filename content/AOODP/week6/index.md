@@ -1,10 +1,10 @@
 ---
 title: "Concurrency and Parallelism in Object-Oriented Design" 
-date: 2025-08-31
+date: 2025-08-7
 tags: ["AOODP","OOP","Desing Patterns", "Concurrency", "Parallelism"]
 author: ["Victor"]
-description: "" 
-summary: "" 
+description: "Concurrency and Parallelism are two important concepts to improve CPU utilization. Still, there are many considerations to use them correctly." 
+summary: "Concurrency and Parallelism are two important concepts to improve CPU utilization. Still, there are many considerations to use them correctly." 
 cover:
     # image: "paper1.png"
     alt: "Concurrency and Parallelism in Object-Oriented Design"
