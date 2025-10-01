@@ -3,8 +3,8 @@ title: "Secure Coding Practices in Object-Oriented Programming"
 date: 2025-09-14
 tags: ["AOODP","OOP","Desing Patterns", "Security", "OAUTH"]
 author: ["Victor"]
-description: "" 
-summary: "" 
+description: "Ensuring security in complex systems is important. This unit presents some attacks and considerations when developing software." 
+summary: "Ensuring security in complex systems is important. This unit presents some attacks and considerations when developing software." 
 cover:
     # image: "paper1.png"
     alt: "Secure Coding Practices in Object-Oriented Programming"
