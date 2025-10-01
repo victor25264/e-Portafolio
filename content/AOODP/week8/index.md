@@ -1,6 +1,6 @@
 ---
 title: "Refactoring and Code Smells" 
-date: 2025-08-21
+date: 2025-09-21
 tags: ["AOODP","OOP","Desing Patterns", "Refactoring", "Code Smells"]
 author: ["Victor"]
 description: "Good code is human-readable and easy to maintain. Refactoring is making code more human-readable and maintainable." 
