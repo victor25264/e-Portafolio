@@ -1,6 +1,6 @@
 ---
 title: "Secure Coding Practices in Object-Oriented Programming" 
-date: 2025-08-7
+date: 2025-08-14
 tags: ["AOODP","OOP","Desing Patterns", "Security", "OAUTH"]
 author: ["Victor"]
 description: "" 

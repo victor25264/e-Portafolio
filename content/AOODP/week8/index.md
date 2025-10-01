@@ -1,6 +1,6 @@
 ---
 title: "Refactoring and Code Smells" 
-date: 2025-08-7
+date: 2025-08-21
 tags: ["AOODP","OOP","Desing Patterns", "Refactoring", "Code Smells"]
 author: ["Victor"]
 description: "" 
@@ -45,7 +45,7 @@ editPost:
 ---
 
 #### Reflexion
-Refactoring is a necessary part of software development because it helps clean the code and ensures that we can maintain and scale our codebase. Almost all code can benefit from refactoring. Still, there is a time cost associated with the star,t, but teams must allocate time for refactoring; otherwise, the code will grow, and later changes or feature additions will become complicated. 
++ Refactoring is a necessary part of software development because it helps clean the code and ensures that we can maintain and scale our codebase. Almost all code can benefit from refactoring. Still, there is a time cost associated with the star,t, but teams must allocate time for refactoring; otherwise, the code will grow, and later changes or feature additions will become complicated. 
 
 ---
 
