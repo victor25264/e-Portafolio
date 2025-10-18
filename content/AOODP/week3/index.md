@@ -43,7 +43,7 @@ Design patters are proven solutions to common software design problems. Creation
 
 ##### Abstract Factory
 + Provides an interface for creating families of related or dependent objects
-+ It allows to create a concrete factory adn then a object using the factory
++ It allows to create a concrete factory and then a object using the factory
 + It can add unnecessary complexity and extra work.
 ---
 
@@ -55,7 +55,7 @@ Design patters are proven solutions to common software design problems. Creation
 from abc import ABC, abstractmethod
 
 class Car(ABC):
-    abstractmethod
+    @abstractmethod
     def drive(self):
         pass
 

@@ -40,6 +40,51 @@ editPost:
 #### Exercises
 
 ##### Discussion Tasks
+```python
+def calculate_total_price(items):
+    total = 0
+    for item in items:
+        if item['type'] == 'book':
+            total += item['price'] * 0.9 # 10% discount for books
+        elif item['type'] == 'electronics':
+            total += item['price'] * 0.8 # 20% discount for electronics
+        else:
+            total += item['price']
+    return total
+
+
+class ItemPrice():
+    def __init__(self, price):
+        self.price = price
+        self.discount = 1.0
+
+    def get_price(self):
+        return self.price * self.discount
+
+class BookPrice(ItemPrice):
+    def __init__(self, price):
+        super().__init__(price)
+        self.discount = 0.8
+
+class ElectronicPrice(ItemPrice):
+    def __init__(self, price):
+        super().__init__(price)
+        self.discount = 0.9
+
+
+def calculate_total_price_refactor(items):
+    total = 0
+    for item in items:
+        total += item.get_price()
+    return total
+
+items = [ItemPrice(10),
+        BookPrice(100),
+        ElectronicPrice(100)
+        ]
+```
+
+
 + There are many code smells like: magic numbers, long methods, and others that make code less readable and flexible. In the example we worked on, it was obvious that the magic numbers were discounted. However, if the code were more detailed and the instructions were not so closely tied to the code, it would be challenging to get the correct idea. Using constants makes the code more readable, but it is essential to give meaningful names to these constants. On the other hand, long methods that use if-else statements can utilize dependency injection with a strategy pattern to enhance the readability, flexibility, and scalability of the code. This is an excellent example of how using a proven pattern can help solve problems while coding. When I code, I tend to start with simple statements, but as the project grows, I realize that changing or adding more to the code can generate errors. The last part of the book has prompted me to start generating unit tests to improve my code and refactor some critical sections.
 
 ---
