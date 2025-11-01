@@ -17,6 +17,8 @@ menu:
         #   weight: 5 
         - name: AOODP
           url: AOODP/
+        - name: SRM
+          url: SRM/
         #   weight: 2
         # - name: Courses
         #   url: courses/
@@ -44,7 +46,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["AOODP","courses","papers","data"]
+    MainSections: ["AOODP","SRM","papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -60,6 +62,8 @@ params:
           buttons:
             - name: Advanced Object-Oriented Design and Programming
               url: aoodp/
+            - name: Security and Risk Management
+              url: srm/
             # - name: Data
             #   url: data/
             # - name: Books
