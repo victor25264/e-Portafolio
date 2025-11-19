@@ -32,17 +32,29 @@ editPost:
 
 ##### Risk identification:
 + There is a need to evaluate risk. There are different ways, like:
-    + Risk notification mailboxes
-    + Threat workshops
-    + Business impact assessment
-    + Gap analysis
-    + Security audits
+
+    - Risk notification mailboxes
+
+    - Threat workshops
+
+    - Business impact assessment
+
+    - Gap analysis
+
+    - Security audits
+
+
 + Information that helps:
-    + System information
-    + Threats
-    + Vulnerabilities
-    + Controls
-    + Impact
+    - System information
+
+    - Threats
+
+    - Vulnerabilities
+
+    - Controls
+
+    - Impact
+
 + After identification, risks must be analyzed.
 
 
