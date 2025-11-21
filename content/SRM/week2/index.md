@@ -27,7 +27,7 @@ editPost:
 
 ##### User participation
 + Board mandate and commitment: critical to ensure risk initiative is successful
-+ The following image shows how user participation improves the risk management process
++ The following image shows how user participation improves the risk management process \(Ferma, 2011\)
 
 ![Risk architecture Ferma (2011) ](image.png)
 
