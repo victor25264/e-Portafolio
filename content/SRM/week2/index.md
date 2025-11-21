@@ -1,6 +1,6 @@
 ---
 title: "Users, Assessments and the Risk Management Process" 
-date: 2025-10-18
+date: 2025-10-25
 tags: ["risk","assesment","risk management process"]
 author: ["Victor"]
 description: "User participation is critical for the risk management process, as board participation is a key step for its success." 
