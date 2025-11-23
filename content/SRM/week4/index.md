@@ -1,6 +1,6 @@
 ---
 title: "Application of Threat Modelling and Management Techniques" 
-date: 2025-10-18
+date: 2025-11-08
 tags: ["risk","uncertain","risk management process"]
 author: ["Victor"]
 description: "System security engineering needs to be part of every process during the development lifecycle." 
