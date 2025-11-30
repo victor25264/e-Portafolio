@@ -3,8 +3,8 @@ title: "Security and Risk Management Standards"
 date: 2025-11-15
 tags: ["risk","management","standards", "PCI", "GDPR"]
 author: ["Victor"]
-description: "" 
-summary: "" 
+description: "There are multiple standards that cover risk management" 
+summary: "There are multiple standards that cover risk management" 
 cover:
     # image: "paper1.png"
     alt: "Security and Risk Management Standards"
