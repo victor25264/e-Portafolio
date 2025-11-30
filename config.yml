@@ -34,7 +34,7 @@ params:
     description: "Victor's e-portafolio."
     author: Victor
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "August 2025"
+    # DateFormat: "August 2025"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
