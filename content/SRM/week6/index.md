@@ -25,22 +25,21 @@ editPost:
 
 
 ##### Risk controls 
-
-+ There are three levels of control: strategic, tactical, and operational. 
++ There are three levels of control: strategic, tactical, and operational
 + Strategic Controls:
-  + Avoid or terminate: stopping the activity or not starting an activity
-  + Reduce or modify: introduce suitable controls to reduce risk
-  + Transfer or share: move the risk to a third party (insurance)
-  + Accept or tolerate: acceptance of the risk as a final choice
+  + Avoid or terminate: stopping the activity or not starting an activity
+  + Reduce or modify: introduce suitable controls to reduce risk
+  + Transfer or share: move the risk to a third party (insurance)
+  + Accept or tolerate: acceptance of the risk as a final choice
 + Tactical Controls:
-  + Detective controls: identify and provide an alert when a threat is having an adverse effect
-  + Preventive controls: intended to stop a threat from having an adverse effect 
-  + Directive controls: provide instructions on how to stop threats from having an adverse effect 
-  + Corrective controls: prevent a threat from additional adverse effects
+  + Detective controls: identify and provide an alert when a threat is having an adverse effect
+  + Preventive controls: intended to stop a threat from having an adverse effect 
+  + Directive controls: provide instructions on how to stop threats from having an adverse effect 
+  + Corrective controls: prevent a threat from additional adverse effects
 + Operational Controls
-  + Procedural or people controls: dictate the way in which actions must be taken
-  + Physical or environmental controls: change the environment 
-  + Technical or logical controls: cover the technology-related aspects of information
+  + Procedural or people controls: dictate the way in which actions must be taken
+  + Physical or environmental controls: change the environment 
+  + Technical or logical controls: cover the technology-related aspects of information
 + The Center for Internet Security Controls is a list of comprehensive controls that provide a good starting point
 
 ---
