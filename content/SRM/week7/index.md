@@ -3,8 +3,8 @@ title: "An Introduction to the Concepts of Quantitative Risk Modelling"
 date: 2025-12-06
 tags: ["risk","uncertain","quantitative risk modelling"]
 author: ["Victor"]
-description: "" 
-summary: "" 
+description: "Some risk experts and consultants argue that quantitative approaches are more accurate and better than qualitative ones" 
+summary: "Some risk experts and consultants argue that quantitative approaches are more accurate and better than qualitative ones" 
 cover:
     # image: "paper1.png"
     alt: "An Introduction to the Concepts of Quantitative Risk Modelling"
