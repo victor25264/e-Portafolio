@@ -22,17 +22,17 @@ editPost:
 
 ##### Quantitative Risk Model
 + Monte Carlo Simulation:
-  + Based on the law of large numbers. 
-  + Principles: probability distribution, speed of numbers, and a known number generator
-  + Antipatterns: consider the tools used, sampling method has impact, non-standard distributions do not work well 
+  + Based on the law of large numbers. 
+  + Principles: probability distribution, speed of numbers, and a known number generator
+  + Antipatterns: consider the tools used, sampling method has impact, non-standard distributions do not work well 
 + Bayes' Theorem:
-  + Statistical theory of conditional probabilities
-  + Principles: subjective probabilities, hypotheses can affect outputs
-  + Antipatterns: ambiguity, ignorance, people prefer known or calculable risk
+  + Statistical theory of conditional probabilities
+  + Principles: subjective probabilities, hypotheses can affect outputs
+  + Antipatterns: ambiguity, ignorance, people prefer known or calculable risk
 + Multiple Criteria Decision Analysis
-  + Principles: Select the type of decision that is required, and choose which possible techniques you prefer to use
-  + Antipatterns: incorrect selection can result in erroneous output, rank reversal, and the accuracy of some methods
-  + AHP can be worse than generic MCDM and should be used with care (Asadabadi et al. 2019)
+  + Principles: Select the type of decision that is required, and choose which possible techniques you prefer to use
+  + Antipatterns: incorrect selection can result in erroneous output, rank reversal, and the accuracy of some methods
+  + AHP can be worse than generic MCDM and should be used with care (Asadabadi et al. 2019)
 
 ---
 
