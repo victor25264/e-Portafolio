@@ -38,6 +38,19 @@ I agree with your assessment of CVSS having a different purpose: to describe and
 
 I consider that a good start to prioritizing vulnerabilities to improve security and reduce risk requires multiple information sources, such as vulnerability, asset, and business information. Still, this proposal will have some limitations, as the priorities will depend on the framework or regulations. I consider Stakeholder-Specific Vulnerability Categorization a reasonable solution for many businesses, as it provides a straightforward decision tree for patch suppliers and deployers (Spring et al., 2021). But it requires more information, which can be a stopper depending on the organization's maturity.
 
+##### Peer Response
+
+Hi Amnon,
+
+
+
+To ensure consistent results, organizations must follow the guidelines set by the developers of the frameworks and other experienced practitioners. CVSS versions 3, 3.1, and 4 each have specification documents, user guides, and examples that explain in more detail what the different metrics mean and how to use them to characterize a vulnerability. For instance, the confusion around the attack vector can be resolved by reading the specification that defines network, adjacent, local, and physical in more detail, with examples (FIRST, 2024). To ensure consistent results in most cases, it is necessary to standardize procedures. The authors asked whether participants read the specification; around 30% did not read the documentation, and 20% did read it, but it was outdated (Wunder et al., 2024). This shows that almost 50% of survey participants lack an understanding of what CVSS is and how to use it, which may explain the inconsistent results, as other studies have shown that CVSS databases are consistent and can be trusted (Johnson et al., 2018).
+
+
+
+In summary, to achieve consistent and accurate results, standard documentation and procedures should be followed.
+
+---
 
 #### Reflexion
 + Monte Carlo methods provide a way to simulate scenarios to understand events. Still, there is a critical need to have reliable data to make these simulations as accurate as possible. As mentioned at the start, this requires that the organization has the necessary information, which is not feasible for less mature organizations. Additionally, understanding how to perform the simulations and the variables needed correctly will require subject matter experts. 
