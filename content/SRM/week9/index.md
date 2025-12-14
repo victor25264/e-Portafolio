@@ -1,7 +1,7 @@
 ---
 title: "Risk, Business Continuity and Disaster Recovery" 
 date: 2025-12-20
-tags: ["risk","uncertain","risk management process"]
+tags: ["risk","uncertain","risk management"]
 author: ["Victor"]
 description: "Business continuity (BC) and disaster recovery (DR) are linked being DR a subset of BC" 
 summary: "Business continuity (BC) and disaster recovery (DR) are linked being DR a subset of BC" 
@@ -22,7 +22,6 @@ editPost:
 + BC is not security driven like the case of Covid 19 but it will dictate security requirements
 
 ##### Business Continuity (BC)
-
 + Standard ISO 22301 recomends: 
   + undergo a risk assesment
   + undergo a business impact analysis
