@@ -43,10 +43,7 @@ I consider that a good start to prioritizing vulnerabilities to improve security
 Hi Amnon,
 
 
-
 To ensure consistent results, organizations must follow the guidelines set by the developers of the frameworks and other experienced practitioners. CVSS versions 3, 3.1, and 4 each have specification documents, user guides, and examples that explain in more detail what the different metrics mean and how to use them to characterize a vulnerability. For instance, the confusion around the attack vector can be resolved by reading the specification that defines network, adjacent, local, and physical in more detail, with examples (FIRST, 2024). To ensure consistent results in most cases, it is necessary to standardize procedures. The authors asked whether participants read the specification; around 30% did not read the documentation, and 20% did read it, but it was outdated (Wunder et al., 2024). This shows that almost 50% of survey participants lack an understanding of what CVSS is and how to use it, which may explain the inconsistent results, as other studies have shown that CVSS databases are consistent and can be trusted (Johnson et al., 2018).
-
-
 
 In summary, to achieve consistent and accurate results, standard documentation and procedures should be followed.
 
