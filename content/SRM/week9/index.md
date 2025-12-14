@@ -3,8 +3,8 @@ title: "Risk, Business Continuity and Disaster Recovery"
 date: 2025-12-20
 tags: ["risk","uncertain","risk management process"]
 author: ["Victor"]
-description: "Business continuity (BC) and disaster recovery (DR) are linked being DR a subset of BC " 
-summary: "Business continuity (BC) and disaster recovery (DR) are linked being DR a subset of BC " 
+description: "Business continuity (BC) and disaster recovery (DR) are linked being DR a subset of BC" 
+summary: "Business continuity (BC) and disaster recovery (DR) are linked being DR a subset of BC" 
 cover:
     # image: "paper1.png"
     alt: "Risk, Business Continuity and Disaster Recovery"
