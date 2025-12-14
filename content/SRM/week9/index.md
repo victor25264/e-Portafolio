@@ -23,7 +23,7 @@ editPost:
 
 ##### Business Continuity (BC)
 
-+ Standard ISO 22301 recomends:
++ Standard ISO 22301 recomends: 
   + undergo a risk assesment
   + undergo a business impact analysis
   + select a BC strategy
