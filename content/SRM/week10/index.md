@@ -16,6 +16,7 @@ editPost:
 ---
 
 ---
+
 #### Practical Applications and Issues in DR Implementations
 + DR strategies a lot of the time involve using secondary sites, buying additional hardware
 + Now it can be achieved using cloud resources, and the cost can vary depending on the objectives
@@ -23,7 +24,7 @@ editPost:
 
 ##### Evaluating disaster recovery
 + Organizations have to define their RPO and RTO before designing their DR
-+ These decisions will help to create the strategy, software, and others needed to achieve the objectives
++ These decisions will help to create the strategy, software, and other resources needed to achieve the objectives
 + Also, there is a need to define what the necessary assets are for DR
 + Cobari (2024) assesses that understanding what possible threats are to the missions and the effects on assets (mission threat analysis) improves efficiency
 + Business can follow a similar framework to define what threats could affect them and what the necessary measures are for business continuity
@@ -33,9 +34,9 @@ editPost:
 ##### Limitations
 + Depending on the objectives, the cost can be high
 + Cloud provides flexible and scalable resources, but it can be prone to vendor lock-in
-   + Vendor lock-in can affect innovation, cost, and others negatively
+  + Vendor lock-in can affect innovation, cost, and other factors negatively
 + Multiple vendors can be flexible, and businesses can use the best of every cloud service provider, but orchestration across environments can be hard
-+ Cloud requires designing networks, plans, and security, taking different considerations
++ Cloud requires designing networks, plans, and security, taking into consideration different considerations
 
 
 ---
