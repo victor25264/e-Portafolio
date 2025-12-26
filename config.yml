@@ -19,8 +19,8 @@ menu:
           url: AOODP/
         - name: SRM
           url: SRM/
-        #   weight: 2
-        # - name: Courses
+        - name: Quick malware analysis
+          url: QMA/
         #   url: courses/
         #   weight: 3
         # - name: Data
@@ -64,8 +64,8 @@ params:
               url: aoodp/
             - name: Security and Risk Management
               url: srm/
-            # - name: Data
-            #   url: data/
+            - name: Quick malware analysis
+              url: qma/
             # - name: Books
             #   url: books/
             # - name: Courses
