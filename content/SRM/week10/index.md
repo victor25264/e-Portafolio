@@ -3,8 +3,8 @@ title: "Practical Applications and Issues in DR Implementations"
 date: 2025-12-27
 tags: ["risk","uncertain","disater recovery"]
 author: ["Victor"]
-description: "" 
-summary: "" 
+description: "DR is a critical part of enterprise risk management to ensure resilient operations." 
+summary: "DR is a critical part of enterprise risk management to ensure resilient operations." 
 cover:
     # image: "paper1.png"
     alt: "Practical Applications and Issues in DR Implementations"
