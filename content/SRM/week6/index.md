@@ -46,8 +46,11 @@ editPost:
 
 #### Reflexion
 + Black swans are rare, unpredictable events in cybersecurity with high impact that can cause severe damage. With this concept, many cybersecurity projects began, focusing on events unlikely to occur but that could incapacitate critical infrastructure. Nowadays, with digitalization and lower barriers to entry, the cybercrime world is no longer black swans; these are just normal swans. Digitalization poses different risks, but many organizations pursue it because the lack of digitalization is no longer an option for remaining competitive. Sadly, the lack of resources or understanding leads managers to accept risks with critical implications, such as avoiding antivirus or patch management. I do not have a solution for these new risks, but, as experience has shown me many times, it is only when a risk materializes in an organization that decision-makers start considering digitalization risks. And, as mentioned before, now cyber risks are no longer black swans; they will happen even to prepared organizations, but risk management is the key difference between the organization that has the necessary controls to recover and the one that does not.
+---
+#### Download
 
-
++ [Project](Development_Team_Project_group3.pdf)
++ [Team Contract](Team_Contract_Template.docx)
 ---
 
 #### Reading 

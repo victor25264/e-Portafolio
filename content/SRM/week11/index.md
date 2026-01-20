@@ -61,6 +61,10 @@ Some of the most important are:
 #### Reflexion
 + Artificial intelligence has gained more importance over the years and shows critical advances in different fields. Still, one of the main issues is that the actions taken or suggested by AI are not always explainable, which can be used to avoid blame from decision makers. Without regulation and explainable AI, this can lead to dangerous decisions that could affect business and communities, particularly in security and risk management, where the main objective is to mitigate and reduce threats.
 
+---
+#### Download
+
++ [Project](RISK_ESSEX_W11.pdf)
 
 ---
 
