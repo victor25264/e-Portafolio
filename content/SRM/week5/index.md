@@ -73,7 +73,7 @@ editPost:
 
   
 ##### Formative Activities
-+ Case Study 5:  Disclosure of CCTV footage from a direct provision centre.
++ Case Study 5:  Disclosure of CCTV footage from a direct provision center.
   + What is the specific aspect of GDPR that your case study addresses? 
     + It covers multiple principles: storage limitation principle, as the data was stored in a link until it expired after the required time; integrity and confidentiality principles, as an unauthorized third party obtained the data; and accountability principle, as there was no record of the data controller following the above principles. Also, the company did not answer the request for information.
   + How was it resolved?
