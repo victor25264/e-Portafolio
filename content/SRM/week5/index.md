@@ -35,12 +35,12 @@ editPost:
 ######  PCI-DSS
 + Payment Card Industry Data Security Standard was created by the Payment Card Industry Data Security Standards Council.
 + Contains 12 objectives and six categories
-  + C.1. Build and maintain a secure network and system: O.1. Installing and maintaining a firewall configuration to protect cardholder data, O.2. Not using vendor-supplied defaults for system passwords and other security parameters
-  + C.2. Protect cardholder data: O.3. Protecting stored cardholder data, O.4. encrypting transmission of cardholder data across open, public networks.
-  + C.3. Maintain a vulnerability management program: O.5. Protect all systems against malware and regularly update anti-malware software or programs, O.6. Develop and maintain secure systems and applications
-  + C.4. Implement strong access control measures: O.7. Restricting access to cardholder data on a business need-to-know basis, O.8. Identifying and authenticating access to system components, O.9. Restricting physical access to cardholder data
-  + C.5. Regular monitor and test networks: O.10. tracking and monitoring all access to network resources and cardholder data, O.11. regularly testing security systems and processes
-  + C.6. Maintain an information security policy: O.12. maintaining a policy that addresses information security for all personnel
+  + C.1. Build and maintain a secure network and system: O.1. Installing and maintaining a firewall configuration to protect cardholder data, O.2. Not using vendor-supplied defaults for system passwords and other security parameters
+  + C.2. Protect cardholder data: O.3. Protecting stored cardholder data, O.4. encrypting transmission of cardholder data across open, public networks.
+  + C.3. Maintain a vulnerability management program: O.5. Protect all systems against malware and regularly update anti-malware software or programs, O.6. Develop and maintain secure systems and applications
+  + C.4. Implement strong access control measures: O.7. Restricting access to cardholder data on a business need-to-know basis, O.8. Identifying and authenticating access to system components, O.9. Restricting physical access to cardholder data
+  + C.5. Regular monitor and test networks: O.10. tracking and monitoring all access to network resources and cardholder data, O.11. regularly testing security systems and processes
+  + C.6. Maintain an information security policy: O.12. maintaining a policy that addresses information security for all personnel
 
 ######  NIST
 + National Institute of Standards and Technology (NIST) contributes to security standards
@@ -50,36 +50,36 @@ editPost:
 
 ######  COBIT VS ITIL
 + Control Objectives for IT (COBIT) 
-  + Deals with governance, assurance, and auditing of business information systems
-  + Emphasis on risk management, information security, and compliance
-  + Core principles: meeting stakeholder needs, covering the entire enterprise, application of a single integrated framework, taking a holistic approach, separating governance from management
+  + Deals with governance, assurance, and auditing of business information systems
+  + Emphasis on risk management, information security, and compliance
+  + Core principles: meeting stakeholder needs, covering the entire enterprise, application of a single integrated framework, taking a holistic approach, separating governance from management
 + Information Technology Infrastructure Library
-  + Concern with service design, implementation, and operations, and certainly
-  + Principles: continual service improvement, service design, service organization, service transition, service strategy.
+  + Concern with service design, implementation, and operations, and certainly
+  + Principles: continual service improvement, service design, service organization, service transition, service strategy.
 
 ##### Risk management
 + If we all agree on the results of the risk assessments, we do not necessarily agree on what risks we should accept or what the best decision is
 + Risk governance refers to the application of governance principles for the handling of risk
 + Risk Informed:
-  + Risk governance refers to the application of governance principles for the handling of risk
-  + Risk acceptance criteria will provide constraints for this balance with respect to these values. 
+  + Risk governance refers to the application of governance principles for the handling of risk
+  + Risk acceptance criteria will provide constraints for this balance with respect to these values. 
 + Precautionary Principle:
-  + There are threats of serious or irreversible damage; lack of complete scientific certainty shall not be used as a reason for postponing cost-effective measures
-  + expresses that if the consequences of an activity could be severe and subject to scientific uncertainties
+  + There are threats of serious or irreversible damage; lack of complete scientific certainty shall not be used as a reason for postponing cost-effective measures
+  + expresses that if the consequences of an activity could be severe and subject to scientific uncertainties
 + Cautionary Principle:.´
-  + The consequences of an activity could be severe and subject to uncertainties, so cautionary measures should be taken, or the activity should not be carried out.
-  + The precautionary principle is that the latter refers to ‘scientific uncertainties’, whereas the former just refers to ‘uncertainties.’
-  + The level of caution adopted needs to be balanced with other concerns 
+  + The consequences of an activity could be severe and subject to uncertainties, so cautionary measures should be taken, or the activity should not be carried out.
+  + The precautionary principle is that the latter refers to ‘scientific uncertainties’, whereas the former just refers to ‘uncertainties.’
+  + The level of caution adopted needs to be balanced with other concerns 
 
   
 ##### Formative Activities
 + Case Study 5:  Disclosure of CCTV footage from a direct provision centre.
-  + What is the specific aspect of GDPR that your case study addresses? 
-    + It covers multiple principles: storage limitation principle, as the data was stored in a link until it expired after the required time; integrity and confidentiality principles, as an unauthorized third party obtained the data; and accountability principle, as there was no record of the data controller following the above principles. Also, the company did not answer the request for information.
-  + How was it resolved?
-     + The company attempted to obtain the necessary information, but, as shown, the issues related to the process for sharing and storing data led the company to receive a fine.
-  + If this was your organisation what steps would you take as an Information Security Manager to mitigate the issue?
-    + As mentioned in the case, clear policies and procedures for storing, sharing, and using data are critical. Also, systems such as SIEMs or DLPs can help detect unauthorized access to data.
+  + What is the specific aspect of GDPR that your case study addresses? 
+    + It covers multiple principles: storage limitation principle, as the data was stored in a link until it expired after the required time; integrity and confidentiality principles, as an unauthorized third party obtained the data; and accountability principle, as there was no record of the data controller following the above principles. Also, the company did not answer the request for information.
+  + How was it resolved?
+    + The company attempted to obtain the necessary information, but, as shown, the issues related to the process for sharing and storing data led the company to receive a fine.
+  + If this was your organisation what steps would you take as an Information Security Manager to mitigate the issue?
+    + As mentioned in the case, clear policies and procedures for storing, sharing, and using data are critical. Also, systems such as SIEMs or DLPs can help detect unauthorized access to data.
 
 
 ---

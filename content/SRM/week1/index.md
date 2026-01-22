@@ -24,7 +24,7 @@ editPost:
 
 
 ##### Definitions
-+ Risk: has had many definitions like “possibility of an event that reduces values “, “net negative impact of exercising a vulnerability considering probability and impact”, and others. RISK = Threat x Vulnerability x Asset
++ Risk: has had many definitions like "possibility of an event that reduces values", "net negative impact of exercising a vulnerability considering probability and impact"s, and others. RISK = Threat x Vulnerability x Asset
 + Threats: A Potential cause of an unwanted incident
 + Vulnerabilities: weakness of an asset or control that can be exploited
 + PDCA mandate: Plan, do, check, and act
