@@ -24,8 +24,8 @@ editPost:
 
 ##### Introduction to TOGAF, SDLC, and IaC
 + TOGAF: is a modular standard to develop enterprise architecture.
-+ Software Development Life Cycle (SDLC): 
-+ Infrastructure as code (IaC)
++ Software Development Life Cycle (SDLC): a methodology for systematically developing software. Provides well-defined stages.
++ Infrastructure as code (IaC): managing and provisioning infrastructure through machine-readable scripts.
 
 
 ##### Microservices enterprise architecture  (Abd-Elwahab, 2023)
