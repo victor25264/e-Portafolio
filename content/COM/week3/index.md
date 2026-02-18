@@ -1,10 +1,10 @@
 ---
 title: "Cloud Design Tools" 
 date: 2025-10-25
-tags: [""]
+tags: ["IaC","Terraform","CloudFormation","Ansible"]
 author: ["Victor"]
 description: "Cloud Design Tools" 
-summary: "" 
+summary: "Design tools enable drafting application architectures and testing them in a simple, repeatable way." 
 cover:
     # image: "paper1.png"
     alt: ""

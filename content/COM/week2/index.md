@@ -1,10 +1,10 @@
 ---
 title: "Understanding Cloud Architecture and Implementing Different Frameworks" 
 date: 2025-10-25
-tags: [""]
+tags: ["cloud architecture", "TOGAF", "SDL", "IaC"]
 author: ["Victor"]
 description: "Understanding Cloud Architecture and Implementing Different Frameworks" 
-summary: "" 
+summary: "Cloud architecture is an important step in designing solutions that can take advantage of the cloud and adapt to business objectives." 
 cover:
     # image: "paper1.png"
     alt: ""
