@@ -3,7 +3,7 @@ title: "Cloud Design Tools"
 date: 2025-10-25
 tags: ["IaC","Terraform","CloudFormation","Ansible"]
 author: ["Victor"]
-description: "Cloud Design Tools" 
+description: "Design tools enable drafting application architectures and testing them in a simple, repeatable way." 
 summary: "Design tools enable drafting application architectures and testing them in a simple, repeatable way." 
 cover:
     # image: "paper1.png"
@@ -21,18 +21,18 @@ editPost:
 
 #####  Cloud Architecture Frameworks and Infrastructure as Code (IaC)
 + Popular IaC:
-  + Terraform
-    + Developed by Hashicorp
-    + Uses declarative IaC to define infrastructure configuration
-    + Supports multi-cloud to manage resources in AWS, Azure, GCP, and others
-  + AWS CloudFormation
-    + Offered by AWS
-    + Native IaC service design to manage AWS resources
-    + Limited to AWS, but with deep integration with the AWS services
-  + Ansible
-    + IaC with configuration management
-    + Uses simple YAML
-    + Often used for automating repetitive tasks
+  + Terraform
+    + Developed by Hashicorp
+    + Uses declarative IaC to define infrastructure configuration
+    + Supports multi-cloud to manage resources in AWS, Azure, GCP, and others
+  + AWS CloudFormation
+    + Offered by AWS
+    + Native IaC service design to manage AWS resources
+    + Limited to AWS, but with deep integration with the AWS services
+  + Ansible
+    + IaC with configuration management
+    + Uses simple YAML
+    + Often used for automating repetitive tasks
 
 
 
@@ -48,13 +48,13 @@ editPost:
 
 ##### Cost of awareness in IaC (Feitosa et al., 2024)
 + Cost awareness in commits:
-  + Monitoring solutions can be expensive
-  + Tunnigm of instances and storage to manage cost
+  + Monitoring solutions can be expensive
+  + Tunnigm of instances and storage to manage cost
 + Cost awareness in issues
-  + Present more explanations around cost
-  + It can complement the commit to understand resons of change
+  + Present more explanations around cost
+  + It can complement the commit to understand resons of change
 + Knowledge Organization
-  + Affect outcomes such as increasing awareness or managing costs.
+  + Affect outcomes such as increasing awareness or managing costs.
 
 ---
 
