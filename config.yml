@@ -66,8 +66,8 @@ params:
               url: srm/
             - name: Quick malware analysis
               url: qma/
-            # - name: Books
-            #   url: books/
+            - name: Cloud Operations and Management
+              url: com/
             # - name: Courses
             #   url: courses/
             # - name: Tags
