@@ -4,7 +4,7 @@ date: 2025-01-27
 tags: ["cloud","cloud services","cloud computing"]
 author: ["Victor"]
 description: "Cloud service providers sell multiple services using different models." 
-summary: "" 
+summary: "Cloud service providers sell multiple services using different models." 
 cover:
     # image: "paper1.png"
     alt: "Introduction to Cloud Fundamentals and Services"
@@ -19,19 +19,19 @@ editPost:
 
 #### Introduction to cloud computing
 + Definition
-  + NIST (Mell and Grance, 2011): On-demand self-service, Broad network access, Broad network access, Rapid elasticity, Measured service.
+  + NIST (Mell and Grance, 2011): On-demand self-service, Broad network access, Broad network access, Rapid elasticity, Measured service.
 + Models:
-  + Private Cloud: Exclusive for a single organization
-  + Community Cloud: Provision for the use of a specific community that shares similar concerns
-  + Public Cloud: Provisioned for general use by the general public
-  + Hybrid Cloud: A composition of two or more models
+  + Private Cloud: Exclusive for a single organization
+  + Community Cloud: Provision for the use of a specific community that shares similar concerns
+  + Public Cloud: Provisioned for general use by the general public
+  + Hybrid Cloud: A composition of two or more models
 + Services:
-  + Compute: VM, containers, serverless (FaaS)
-  + Storage: block storage, file storage, object storage
-  + Network: VPCs, VPN, Subnetting, load balancing, CDNs
+  + Compute: VM, containers, serverless (FaaS)
+  + Storage: block storage, file storage, object storage
+  + Network: VPCs, VPN, Subnetting, load balancing, CDNs
 + Security and compliance:
-  + Risks: data breaches, insider threats, data loss and recovery, insecure API, DoS attacks
-  + tools: IAM, encryption and data protection, firewalls, IPS/IDS
+  + Risks: data breaches, insider threats, data loss and recovery, insecure API, DoS attacks
+  + tools: IAM, encryption and data protection, firewalls, IPS/IDS
 
 ##### Cloud Service Model
 + IaaS: provides storage, networks and other computing resources where the customer can run software, including operating system and application
@@ -41,16 +41,16 @@ editPost:
 
 ##### Benefits and Challenges
 + Advantages:
-  + Scalability
-  + Cost saving by eliminating upfront investments
-  + High reliability and availability
-  + Security on different layers
-  + Remote access and collaboration
-  + Automation
+  + Scalability
+  + Cost saving by eliminating upfront investments
+  + High reliability and availability
+  + Security on different layers
+  + Remote access and collaboration
+  + Automation
 + Challenges:
-  + Data protection
-  + Vendor lock-in
-  + Managing costs
+  + Data protection
+  + Vendor lock-in
+  + Managing costs
 
 ---
 
