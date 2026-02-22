@@ -108,3 +108,5 @@ In conclusion, automation of cloud deployment has critical advantages that enabl
 + Doolittle, J. & Blumen, R. (2022) Luke Hoban on Infrastructure as Code Robert Blumen (ed.). IEEE software. [Online] 39 (2), 112–114.
 + Luchian, E. et al. (2016) 'Automation of the infrastructure and services for an openstack deployment using chef tool', 2016 15th RoEduNet Conference: Networking in Education and Research. IEEE, pp. 1-5.
 + War, A. et al. (2025) Vulnerabilities in infrastructure as code: what, how many, and who? Empirical software engineering : an international journal. [Online] 30 (5), .
++ Wiggins, A. (2023) The Twelve-Factor App. Available at: https://12factor.net/ (Accessed: 15 February 2026).
+

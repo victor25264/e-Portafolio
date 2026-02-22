@@ -1,6 +1,6 @@
 ---
 title: "Cloud Native Technology Part 2" 
-date: 2026-02-24
+date: 2026-02-21
 tags: [""]
 author: ["Victor"]
 description: "Cloud Native Technology Part 2" 
@@ -152,6 +152,7 @@ In this post, Helm is used to deploy a simple Redis HA cluster. Helm is an IaC t
 #### Reading 
 
 + al., F. (2012) Fog Computing and Its Role in the Internet of Things. MCC ’12: Proceedings of the first edition of the MCC workshop on Mobile cloud computing. 13–16.
++ IBM (no date) What is Redis?. Available at: https://www.ibm.com/topics/redis (Accessed: 22 February 2026).
 + Gupta (2016) iFogSim: A Toolkit for Modeling and Simulation of Resource Management Techniques in Internet of Things, Edge and Fog Computing Environments.
 + Hamzaoui, I. et al. (2024) A Topical Review on Container-Based Cloud Revolution: Multi-Directional Challenges, and Future Trends. SN computer science. [Online] 5 (4), .
-
++ Wiggins, A. (2023) The Twelve-Factor App. Available at: https://12factor.net/ (Accessed: 15 February 2026).
