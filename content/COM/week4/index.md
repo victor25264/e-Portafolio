@@ -3,7 +3,7 @@ title: "Cloud Native Technology Part 1"
 date: 2025-10-25
 tags: ["Development", "OpenStack"]
 author: ["Victor"]
-description: "Cloud Native Technology Part 1" 
+description: "Cloud native technologies are designed from the start to leverage the scalability and agility of cloud services." 
 summary: "Cloud native technologies are designed from the start to leverage the scalability and agility of cloud services." 
 cover:
     # image: "paper1.png"
@@ -21,62 +21,62 @@ editPost:
 
 ##### The Twelve-Factor App
 + Methodology for building software-as-a-service apps that:
-  + Use declarative format for setup automation
-  + clean contract with underlying OS, offers maximum portability
-  + suitable for cloud deployment
-  + minimize divergence between production, development, and other environments
-  + scale up without significant changes in tooling, architecture, or development practices
+  + Use declarative format for setup automation
+  + clean contract with underlying OS, offers maximum portability
+  + suitable for cloud deployment
+  + minimize divergence between production, development, and other environments
+  + scale up without significant changes in tooling, architecture, or development practices
 1. Codebase:
-  + always tracked in a version control system like Git
-  + codebase is a single repo, or any set of repos with the same root commit
-  + multiple codebases are not an app; it's a distributed system
-  + apps do not have to share code; libraries should be used through a dependency manager
-  + a deploy is a running instance of the app
+  + always tracked in a version control system like Git
+  + codebase is a single repo, or any set of repos with the same root commit
+  + multiple codebases are not an app; it's a distributed system
+  + apps do not have to share code; libraries should be used through a dependency manager
+  + a deploy is a running instance of the app
 2. Dependecies:
-  + do not rely on the implicit existence of a system-wide package, use a dependency declaration manifest
-  + use dependency isolation tool to ensure no implicit dependency leak
-  + simplifies setup for developers new to the project
+  + do not rely on the implicit existence of a system-wide package, use a dependency declaration manifest
+  + use dependency isolation tool to ensure no implicit dependency leak
+  + simplifies setup for developers new to the project
 3. Config:
-  + app's config is everything likely to vary between deploys
-  + config store as constants in code is a violation of the methodology
-  + config does not include internal application
-  + store config in environmental variables and do not upload to the repository
+  + app's config is everything likely to vary between deploys
+  + config store as constants in code is a violation of the methodology
+  + config does not include internal application
+  + store config in environmental variables and do not upload to the repository
 4. Backing services
-  + is any service that the app consumer accesses over the network for operation
-  + do not make a distinction between local and third-party services
-  + should be able to swap services without changes to the code
-  + services can be attached and detached from deploys
+  + is any service that the app consumer accesses over the network for operation
+  + do not make a distinction between local and third-party services
+  + should be able to swap services without changes to the code
+  + services can be attached and detached from deploys
 5. Build, release, run
-  + codebase becomes a deploy by: build it into an executable, release combines code with config, and run the app in the execution environment
-  + use strict separation between the stages
+  + codebase becomes a deploy by: build it into an executable, release combines code with config, and run the app in the execution environment
+  + use strict separation between the stages
 6. Processes
-  + app is executed in the execution environment as one or more processes
-  + processes are stateless and share-nothing, data persist on backing services
-  + apps must not assume anything is cached in memory or on disk
-  + sticky sessions are a violation of the methodology; use external services if needed
+  + app is executed in the execution environment as one or more processes
+  + processes are stateless and share-nothing, data persist on backing services
+  + apps must not assume anything is cached in memory or on disk
+  + sticky sessions are a violation of the methodology; use external services if needed
 7. Port binding
-  + app is completely self-contained and does not rely on runtime injection
-  + note that port-binding means that the app can become a backing service
+  + app is completely self-contained and does not rely on runtime injection
+  + note that port-binding means that the app can become a backing service
 8. Concurrency
-  + processes are first-class citizens
-  + assign workload to different process types
-  + the share-nothing, means that adding more concurrency is a reliable operation
+  + processes are first-class citizens
+  + assign workload to different process types
+  + the share-nothing, means that adding more concurrency is a reliable operation
 9. Disposability
-  + apps can be started or stopped at a moment's notice for rapid deployment or config change
-  + should strive to minimize startup time, increase agility for release
-  + apps should shut down gracefully by finishing the activities
-  + process should be robust against sudden death
+  + apps can be started or stopped at a moment's notice for rapid deployment or config change
+  + should strive to minimize startup time, increase agility for release
+  + apps should shut down gracefully by finishing the activities
+  + process should be robust against sudden death
 10. Dev/prod parity
-  + apps are designed for continuous deployment by keeping the gap between dev and prod
-  + resist the urge to use different backing services between environments, as this difference can sum multiple tiny incomtibilities
+  + apps are designed for continuous deployment by keeping the gap between dev and prod
+  + resist the urge to use different backing services between environments, as this difference can sum multiple tiny incomtibilities
 11. Logs
-  + logs are a stream of aggregated, time-ordered events collected from the processes running
-  + apps should never concern themselves with routing or storage of the logs
-  + the environment manages routing by using log routes
+  + logs are a stream of aggregated, time-ordered events collected from the processes running
+  + apps should never concern themselves with routing or storage of the logs
+  + the environment manages routing by using log routes
 12. Admin processes
-  + admin processes should be run in an identical environment as the regular long-running processes of the app
-  + the same dependency isolation techniques should be used on all process types
-  + strongly favors languages that provide a REPL shell out of the box, and which make it easy to run one-off scripts
+  + admin processes should be run in an identical environment as the regular long-running processes of the app
+  + the same dependency isolation techniques should be used on all process types
+  + strongly favors languages that provide a REPL shell out of the box, and which make it easy to run one-off scripts
 
 ---
 
@@ -96,8 +96,7 @@ In conclusion, automation of cloud deployment has critical advantages that enabl
 
 
 ##### Reflexion
-
-
++ Cloud native technologies have a design that takes advantage of cloud providers. This advantage is key to having scalable and resilient applications. Still, this takes time or money to have it correctly deployed, which can be a barrier to entry for small companies. 
 
 
 
