@@ -31,34 +31,34 @@ editPost:
 ##### Microservices enterprise architecture  (Abd-Elwahab, 2023)
 + Microservices can enable digital transformation, supporting standards and aligning to cloud strategy
 + Microservices enable:
-  + Design decouple services and define API contracts
-  + Establish best practices and standards
-  + Support Development from design to implementation
-  + Aligning with cloud strategy
-  + Enable data integration
+  + Design decouple services and define API contracts
+  + Establish best practices and standards
+  + Support Development from design to implementation
+  + Aligning with cloud strategy
+  + Enable data integration
 + Process for implementation
-  + Identify business objectives
-  + Design the microservices architecture
-  + Develop the microservices
-  + Implement service discovery and API gateway
-  + Implement monitoring and logging
-  + Test microservices
-  + Iterate and refine
+  + Identify business objectives
+  + Design the microservices architecture
+  + Develop the microservices
+  + Implement service discovery and API gateway
+  + Implement monitoring and logging
+  + Test microservices
+  + Iterate and refine
 + Challenges:
-  + Resistance to change
-  + Lack of skill and expertise
-  + Complex legacy systems
-  + Unclear objectives
-  + Budget constraints
-  + Data management
+  + Resistance to change
+  + Lack of skill and expertise
+  + Complex legacy systems
+  + Unclear objectives
+  + Budget constraints
+  + Data management
 + Strategies for integrating new systems with legacy:
-  + Develop a comprehensive integration strategy
-  + Implement middleware
-  + Use APIs
-  + Adopt a phased approach
-  + Leverage microservices architecture
-  + Implement a data integration platform
-  + Use data mapping and transformation tools
+  + Develop a comprehensive integration strategy
+  + Implement middleware
+  + Use APIs
+  + Adopt a phased approach
+  + Leverage microservices architecture
+  + Implement a data integration platform
+  + Use data mapping and transformation tools
 
 ---
 
