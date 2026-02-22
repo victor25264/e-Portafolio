@@ -1,6 +1,6 @@
 ---
 title: "Understanding Cloud Architecture and Implementing Different Frameworks" 
-date: 2025-10-25
+date: 2026-02-03
 tags: ["cloud architecture", "TOGAF", "SDL", "IaC"]
 author: ["Victor"]
 description: "Understanding Cloud Architecture and Implementing Different Frameworks" 

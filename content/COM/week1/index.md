@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Cloud Fundamentals and Services" 
-date: 2025-01-27
+date: 2026-01-27
 tags: ["cloud","cloud services","cloud computing"]
 author: ["Victor"]
 description: "Cloud service providers sell multiple services using different models." 

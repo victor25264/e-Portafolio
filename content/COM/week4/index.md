@@ -1,6 +1,6 @@
 ---
 title: "Cloud Native Technology Part 1" 
-date: 2025-10-25
+date: 2026-02-17
 tags: ["Development", "OpenStack"]
 author: ["Victor"]
 description: "Cloud native technologies are designed from the start to leverage the scalability and agility of cloud services." 
