@@ -64,8 +64,8 @@ params:
               url: aoodp/
             - name: Security and Risk Management
               url: srm/
-            - name: Quick malware analysis
-              url: qma/
+            - name: Quick and threat malware analysis
+              url: qtma/
             - name: Cloud Operations and Management
               url: com/
             # - name: Courses
