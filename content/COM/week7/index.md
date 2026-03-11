@@ -4,10 +4,10 @@ date: 2026-03-10
 tags: [""]
 author: ["Victor"]
 description: "Cloud Security and Risk Assessment" 
-summary: "" 
+summary: "Cloud-native technology is important for taking advantage of many of the benefits of the cloud." 
 cover:
     # image: "paper1.png"
-    alt: ""
+    alt: "Cloud-native technology is important for taking advantage of many of the benefits of the cloud."
     relative: true
 editPost:
     URL: "https://github.com/victor25264/e-Portafolio"
