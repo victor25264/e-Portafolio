@@ -84,6 +84,6 @@ Bonus points, we also found the command that was executed.
 
 ##### NOTE
 
-* According to DebugPrivilege, during an incident you will normally receive minidump with full memory. The reasoning is: ["that it includes all the readable memory in a process's address space."][https://x.com/DebugPrivilege/status/1750780250491851038?s=20]. I did this blog before learning this so next blog will follow this advice.
+* According to DebugPrivilege, during an incident you will normally receive minidump with full memory. The reasoning is: ["that it includes all the readable memory in a process's address space."](https://x.com/DebugPrivilege/status/1750780250491851038?s=20). I did this blog before learning this so next blog will follow this advice.
 
 [def]: https://x.com/DebugPrivilege/status/1750780250491851038?s=20
