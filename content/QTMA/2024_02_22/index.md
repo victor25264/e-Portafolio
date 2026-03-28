@@ -15,8 +15,9 @@ editPost:
 
 ---
 
+#### Finding evil in memory
 
-## Is it Clean?
+##### Is it Clean?
 
 How can you know if a process is clear or not? Well I don't know, I'm no expert but I think we can see some patters if we look into some dumps of clean processes. This should give us some idea about clean process before injection for this lets see some clean process. I will look into the following processes.
     
@@ -26,7 +27,7 @@ How can you know if a process is clear or not? Well I don't know, I'm no expert 
 
 All the dumps were obtained using process explorer full dump* in the same machine. 
 
-### Notepad++
+##### Notepad++
 
 First, we need to display information about the process. I executed all the tests on a Windows 10 VM. 
 
@@ -50,7 +51,7 @@ Finally, let's look at the pages of the process and look for a page that has exe
 
 I wanted to explore more about this, but let's go directly to an example of evil.
 
-## Evil
+##### Evil
 
 For this test, I used Metasploit and used a Meterpreter shell. To gain access, I used a web delivery that requieres the execution of the following command, similar to what a dropper would do. 
 
@@ -81,7 +82,7 @@ Bonus points, we also found the command that was executed.
 ![Display strings 2](./powershell_infected_strings2.PNG)
 
 
-## NOTE
+##### NOTE
 
 * According to DebugPrivilege, during an incident you will normally receive minidump with full memory. The reasoning is: ["that it includes all the readable memory in a process's address space."][https://x.com/DebugPrivilege/status/1750780250491851038?s=20]. I did this blog before learning this so next blog will follow this advice.
 
