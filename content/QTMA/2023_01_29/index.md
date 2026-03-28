@@ -3,11 +3,11 @@ title: "ADCS 1"
 date: 2023-01-29
 tags: ["ADCS", "Privilege Escalation"]
 author: ["Victor"]
-description: "SpecterOps published a white paper that show the potential attack paths and possible exploitations of certificate templates on ADCS. I've known about this for quite some time but haven’t done a deep dive on this, and taking into consideration the possible impact I'm going to do some experiment." 
-summary: "SpecterOps published a white paper that show the potential attack paths and possible exploitations of certificate templates on ADCS. I've known about this for quite some time but haven’t done a deep dive on this, and taking into consideration the possible impact I'm going to do some experiment." 
+description: "SpecterOps published a white paper that show the potential attack paths and possible exploitations of certificate templates on ADCS. I'm going to do some experiment on a escalation path" 
+summary: "SpecterOps published a white paper that show the potential attack paths and possible exploitations of certificate templates on ADCS. I'm going to do some experiment on a escalation path" 
 cover:
     # image: "paper1.png"
-    alt: "SpecterOps published a white paper that show the potential attack paths and possible exploitations of certificate templates on ADCS. I've known about this for quite some time but haven’t done a deep dive on this, and taking into consideration the possible impact I'm going to do some experiment."
+    alt: "SpecterOps published a white paper that show the potential attack paths and possible exploitations of certificate templates on ADCS. I'm going to do some experiment on a escalation path"
     relative: true
 editPost:
     URL: "https://github.com/victor25264/e-Portafolio"
