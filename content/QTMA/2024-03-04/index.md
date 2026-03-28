@@ -1,6 +1,6 @@
 ---
 title: "Do you want free Adobe? Vidar Stealer and Discord" 
-date: 2022-11-20
+date: 2024-03-04
 tags: ["Stealer","Discord"]
 author: ["Victor"]
 description: "What happen when you follow the suspicious link that wants to give you free Adobe? Well let's explore this simple but interesting Vidar sample." 
