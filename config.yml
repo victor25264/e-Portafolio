@@ -57,7 +57,7 @@ params:
     profileMode:
           enabled: true
           title: Victor Peña
-          subtitle: "I'm a cybersecurity analyst specialized in incident response and threat hunting. I focus on using threat intelligence to priorize detection and response. This is my e-portafolio based on the work carried out on the Msc in Cyber Security programme."
+          subtitle: "I'm a cybersecurity analyst specialized in incident response and threat hunting. I focus on using threat intelligence to priorize detection and response. This is my e-portafolio based on the work carried out on the Msc in Cyber Security programme. Opinions expressed are my own."
 
           buttons:
             - name: Advanced Object-Oriented Design and Programming
