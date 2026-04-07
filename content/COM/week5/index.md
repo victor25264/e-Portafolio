@@ -1,6 +1,6 @@
 ---
 title: "Cloud Native Technology Part 2" 
-date: 2026-03-24
+date: 2026-02-24
 tags: [""]
 author: ["Victor"]
 description: "Cloud Native Technology Part 2" 
