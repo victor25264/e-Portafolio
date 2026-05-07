@@ -69,29 +69,29 @@ editPost:
 ---
 
 
-#### Case Study: 
+#### Case Study: Digitalisation – What are the Security Implications of the Digital Economy?
 
++ What do you consider as a fully digital enterprise?
+  + A fully digital enterprise integrates technology into its processes, culture, and people, yielding clear benefits for the organization.
 
++ What are the cyber security challenges/concerns with a fully digital enterprise?
+  + Vulnerability management, data governance, and legal compliance are critical challenges for a fully digital enterprise. Threats are constantly evolving and can be exploited by adversaries to disrupt business operations. An enterprise must establish a robust vulnerability management program that uses risk assessments to prioritize vulnerabilities and automation to reduce the mean time to patch (MTTP) (Knapp, 2024). Data governance ensures that the data lifecycle is managed according to business and compliance requirements. This allows organizations to leverage data to improve decision-making while protecting it from unauthorized access. Finally, different regions impose distinct legal requirements for businesses to protect data and privacy, such as GDPR (Sharma & Menon, 2020).
 
-
-
-
-
-#### Collaborative Discussion
-##### 
-
-#### Seminar
++ What are the cyber security challenges for a bricks and mortar SME wanting to become a digital enterprise?
+  + A critical challenge is the initial investment of time and capital required to deploy technology and prepare the organization for its adoption. This transition period, during which the organization adapts current processes to digital workflows, carries the risk of misconfiguration if not managed properly (Doroiman, 2024).
 
 
 ---
 
 #### Reflexion
 
-+ 
++ The forensics process is critical to ensuring the admissibility of evidence in court. Nevertheless, because attackers are often located on the other side of the world, some companies bypass these procedures in favor of a faster recovery. Unfortunately, attempting to expedite the process often leaves attacker persistence or the original vulnerability intact, which frequently leads to re-infection.
 
 
 ---
 
 #### Reading 
 
-+ 
++ Doroiman, M. M. (2024) THE DIGITAL ENTERPRISE LANDSCAPE: HOW DESI METRICS SHAPE ECONOMIC GROWTH IN THE EU.
++ Knapp, E. D. (2024) Industrial Network Security : Securing Critical Infrastructure Networks for Smart Grid, SCADA, and Other Industrial Control Systems. Third edition. Cambridge, MA: Syngress.
++ Sharma, S. & Menon, P. (2020) Data privacy and GDPR handbook. 1st edition. Hoboken, New Jersey: John Wiley & Sons.
