@@ -1,13 +1,13 @@
 ---
 title: "History of Network Security, Vulnerabilities and Approaches" 
 date: 2026-05-02
-tags: [""]
+tags: ["pentesting"]
 author: ["Victor"]
-description: "" 
-summary: "" 
+description: "Digital enterprises face inherent risks and vulnerabilities that require proactive mitigation." 
+summary: "Digital enterprises face inherent risks and vulnerabilities that require proactive mitigation." 
 cover:
     # image: "paper1.png"
-    alt: ""
+    alt: "History of Network Security, Vulnerabilities and Approaches"
     relative: true
 editPost:
     URL: "https://github.com/victor25264/e-Portafolio"
@@ -79,6 +79,29 @@ editPost:
 
 + What are the cyber security challenges for a bricks and mortar SME wanting to become a digital enterprise?
   + A critical challenge is the initial investment of time and capital required to deploy technology and prepare the organization for its adoption. This transition period, during which the organization adapts current processes to digital workflows, carries the risk of misconfiguration if not managed properly (Doroiman, 2024).
+
+
+#### Cyberattack Case File: Origins, Methods, and Mitigation
+Phishing 
+SQL Injection 
+Ransomware 
+Denial-of-Service (DoS) 
+Man-in-the-Middle (MitM) 
+Cross-Site Scripting (XSS) 
+
+
+Origin & History 
+  When and how was this attack first discovered or widely used? 
+  Mention a notable case or incident involving this attack. 
+How the Attack Works 
+  Describe how the attack is executed. 
+  What vulnerabilities does it typically exploit? 
+Best Practice Mitigation Strategies 
+  What are standard best practices for preventing this attack? 
+  Mention at least two specific techniques or controls. 
+Modern Protection Tools & Techniques 
+  What current technologies or frameworks are used to defend against this type of attack? 
+  Mention any automation tools, monitoring systems, or policies. 
 
 
 ---
