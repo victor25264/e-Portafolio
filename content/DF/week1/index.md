@@ -189,9 +189,7 @@ editPost:
 
 #### Reflexion
 
-+ Digital forensics acquisition is fraught with challenges, ranging from sophisticated anti-forensic techniques to complex legal and privacy considerations. These considerations often vary significantly depending on the jurisdiction and the specific laws of the country involved.
-
-Despite these hurdles, perhaps the most fundamental challenge is the availability of evidence itself. In many instances, administrators fail to enable or preserve critical system logs. When this lack of logging is coupled with an adversary’s deliberate efforts to delete existing records, investigators are left with a vacuum of information, making a comprehensive forensic reconstruction nearly impossible.
++ Digital forensics acquisition is fraught with challenges, ranging from sophisticated anti-forensic techniques to complex legal and privacy considerations. These considerations often vary significantly depending on the jurisdiction and the specific laws of the country involved. Despite these hurdles, perhaps the most fundamental challenge is the availability of evidence itself. In many instances, administrators fail to enable or preserve critical system logs. When this lack of logging is coupled with an adversary’s deliberate efforts to delete existing records, investigators are left with a vacuum of information, making a comprehensive forensic reconstruction nearly impossible.
 
 
 ---
