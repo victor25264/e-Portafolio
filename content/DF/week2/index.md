@@ -3,8 +3,8 @@ title: "Principles of Evidence and Proof in Digital Forensics"
 date: 2026-05-02
 tags: ["digital forensic", "GDPR"]
 author: ["Victor"]
-description: "" 
-summary: "" 
+description: "Data admissibility is critical to digital forensics and remains a significant open challenge." 
+summary: "Data admissibility is critical to digital forensics and remains a significant open challenge." 
 cover:
     # image: "paper1.png"
     alt: "Principles of Evidence and Proof in Digital Forensics"
@@ -84,25 +84,14 @@ editPost:
 
 #### Collaborative Discussion
 
-What is the biggest challenge in ensuring the admissibility of AI-generated or AI-assisted digital evidence, and how can forensic investigators address it?
+Recent Large Language Models (LLMs) have demonstrated significant advancements in reasoning and specialized domains such as cybersecurity (Anthropic, 2026). While these models are effective at scaling operations, unpredictable outputs, a lack of explainability, and hallucinations remain persistent challenges for AI systems. For these reasons, evidence generated or collected by AI may face rigorous admissibility challenges in legal contexts.
 
-Provide at least one reference in Harvard referencing format and reply to at least one peer’s post, comparing perspectives.
-
-Example focus areas:
-
-AI model transparency and explainability.
-Algorithmic bias or errors in forensic interpretation.
-Legal standards for AI-assisted decision-making.
-
-
-
-#### Seminar
-
+First, it is imperative that the integrity of the original data is maintained during the collection and processing phases (Boumediene & Boumediene, 2025). AI has been shown to execute unintended commands, such as deleting databases (Mansoor, 2026). Admissibility may be compromised if an AI modifies original evidence or extracts more data than necessary, thereby violating user privacy. Furthermore, during the analysis phase, results must derive from justifiable methods, tools, and techniques, and be reported accurately. In this regard, AI explainability continues to be a hurdle, as certain decisions made by the model cannot be interpreted by human observers. Finally, AI models are prone to hallucinations, which can lead to erroneous conclusions even when the underlying data is accurate (Papagiannopoulos et al., 2025).
 
 ---
 
 #### Reflexion
-
++ As workflows integrate AI, the lack of deterministic responses will continue to be a challenge. However, this can be mitigated by following a framework where the AI does not interact directly with the evidence, but rather with a forensic copy, and is constrained to proven tools and formats. I believe these frameworks can help mitigate risks and enable scalable forensics; nevertheless, human expertise remains essential to corroborate the generated information.
 
 
 ---
@@ -110,3 +99,7 @@ Legal standards for AI-assisted decision-making.
 #### Reading 
 
 + Agarwal, B. et al. (2025) From Paper to Structured JSON: An Agentic Workflow for Compliant BMR Digital Transformation. arXiv.org.
++ Anthropic (2026) Project Glasswing: securing critical software for the AI era. Available at: https://www.anthropic.com/glasswing (Accessed: 7 May 2026).
++ Boumediene, S. L. & Boumediene, S. (2025) Lessons Learned from Failed Digital Forensic Investigations. Journal of forensic accounting research. [Online] 10 (1), 357–380.
++ Mansoor, S. (2026) 'Claude-powered AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’', The Guardian, 29 April. Available at: https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database (Accessed: 7 May 2026).
++ Papagiannopoulos, I. et al. (2025) Comparison of explainability methods for hallucination analysis in LLMs. Open research Europe. [Online] 5191.
