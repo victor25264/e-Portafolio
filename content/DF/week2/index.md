@@ -1,6 +1,6 @@
 ---
 title: "Principles of Evidence and Proof in Digital Forensics" 
-date: 2026-05-02
+date: 2026-05-09
 tags: ["digital forensic", "GDPR"]
 author: ["Victor"]
 description: "Data admissibility is critical to digital forensics and remains a significant open challenge." 
