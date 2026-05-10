@@ -81,29 +81,6 @@ editPost:
   + A critical challenge is the initial investment of time and capital required to deploy technology and prepare the organization for its adoption. This transition period, during which the organization adapts current processes to digital workflows, carries the risk of misconfiguration if not managed properly (Doroiman, 2024).
 
 
-#### Cyberattack Case File: Origins, Methods, and Mitigation
-Phishing 
-SQL Injection 
-Ransomware 
-Denial-of-Service (DoS) 
-Man-in-the-Middle (MitM) 
-Cross-Site Scripting (XSS) 
-
-
-Origin & History 
-  When and how was this attack first discovered or widely used? 
-  Mention a notable case or incident involving this attack. 
-How the Attack Works 
-  Describe how the attack is executed. 
-  What vulnerabilities does it typically exploit? 
-Best Practice Mitigation Strategies 
-  What are standard best practices for preventing this attack? 
-  Mention at least two specific techniques or controls. 
-Modern Protection Tools & Techniques 
-  What current technologies or frameworks are used to defend against this type of attack? 
-  Mention any automation tools, monitoring systems, or policies. 
-
-
 ---
 
 #### Reflexion
